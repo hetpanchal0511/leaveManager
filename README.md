@@ -3,8 +3,6 @@
 LeaveManager is a web-based Employee Leave Management System built using Laravel (PHP Framework).
 It helps organizations manage employee leave requests efficiently with an easy-to-use admin panel.
 
-🌐 Live Demo: http://hr.dizintro.com
-
 📌 Project Overview
 
 LeaveManager simplifies HR operations by allowing:
